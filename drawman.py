@@ -1,4 +1,4 @@
-for turtle import Turtle
+from turtle import Turtle
 
 def init_drawman():
     global t, x_current, y_current
