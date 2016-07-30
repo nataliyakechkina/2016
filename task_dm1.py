@@ -10,4 +10,3 @@ to_point(A[0][0],A[0][1])
 pen_up()
 
 sleep(20)
-
