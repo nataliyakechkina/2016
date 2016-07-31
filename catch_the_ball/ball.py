@@ -32,6 +32,6 @@ def init_main_window():
     for obj in  button1, button2, label,  scale, text:
         obj.pack()
 
-if __name__=="__main__":
+if __name__== "__main__":
     init_main_window()
     root.mainloop()
